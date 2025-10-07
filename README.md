@@ -1,5 +1,8 @@
 # Interest-calculator-html-chatGPT
-An interest calculator app made ENTIRELY by chatgpt to test IA progress. It is a single html file, able to transform normal % to % after tax, as well as a graph and a calculator
+An interest calculator webpage made ENTIRELY by chatgpt to test IA progress. It is a single html file, able to transform normal % to % after tax, as well as a graph and a calculator.
+
+This webpage was entirely made by chatgpt, without me correcting it. It worked first try, i've added a few fonctionnality one after another and everything worked from the start.
+It was using the regular free plan under chatgpt 5.
 
 ## Table of Contents
 
